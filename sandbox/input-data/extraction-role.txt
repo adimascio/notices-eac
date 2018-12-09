@@ -1,0 +1,8 @@
+Commandes utilisées :
+
+$ grep d699msit6xq-1e7tbhtd3o7v6 * -l > /home/adim/var/hack-an/IR_peintre.csv                                                 
+$ grep d699msjzppc-y5cl997d1hxn * -l > /home/adim/var/hack-an/IR_artiste.csv
+$ grep d699msk0pcw-gpdixmoh1g05 * -l > /home/adim/var/hack-an/IR_chanteur.csv
+$ grep d699msjdps0--1hzktwbvq279p * -l > /home/adim/var/hack-an/IR_danseur.csv
+$ grep d699msjehib--9u7knr7v4uyn * -l > /home/adim/var/hack-an/IR_dessinateur.csv          
+
