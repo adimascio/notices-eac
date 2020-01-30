@@ -51,7 +51,7 @@ BIND (wd:%s as ?personne) .
 
 
 app = Flask(__name__)
-template = open('template_eac.xml').read().decode('utf-8')
+template = open('eac_template.xml').read()
 
 
 
